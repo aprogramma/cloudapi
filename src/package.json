@@ -1,0 +1,4 @@
+$ cd cloudapi
+$ mkdir src
+$ cd src
+$ npm init
